@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.mattkremer.testing1",
   "appName": "Kremers Test App",
   "bundledWebRuntime": false,
   "npmClient": "npm",
