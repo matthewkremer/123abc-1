@@ -1,0 +1,13 @@
+{
+  "appId": "com.mattkremer.testing1",
+  "appName": "Kremers Test App Awesome",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
