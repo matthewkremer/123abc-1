@@ -1,6 +1,6 @@
 {
   "appId": "com.mattkremer.testing1",
-  "appName": "Kremers Test App Awesome",
+  "appName": "Matts App",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
