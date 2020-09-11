@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { environment } from '../../environments/environment';
 
 @Component({
   selector: 'app-tab1',
@@ -6,7 +7,14 @@ import { Component } from '@angular/core';
   styleUrls: ['tab1.page.scss']
 })
 export class Tab1Page {
+  api: string;
+  environment: string;
 
-  constructor() {}
+  constructor() {
+    this.api = environment.api;
+    this.environment = environment.name;
+    console.log(this.environment);
+    console.log(this.api);
+  }
 
 }
