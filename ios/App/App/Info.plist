@@ -79,5 +79,11 @@
     <string>Nope</string>
     <key>IonUpdateMethod</key>
     <string>auto</string>
+    <key>IonMaxVersions</key>
+    <string>2</string>
+    <key>IonMinBackgroundDuration</key>
+    <string>30</string>
+    <key>IonApi</key>
+    <string>https://api.ionicjs.com</string>
   </dict>
 </plist>
